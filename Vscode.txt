@@ -1,0 +1,14 @@
+Enable plan mode: shift + tab, shift + tab (twice)
+Enable think: inside prompt, use:
+Think, 
+Think more, 
+Think longer, 
+Ultrathink, 
+Think a lot
+Example, "This is a tough task, so ultrathink about the best way to implement it."
+
+
+Hit escape twice to rewind a conversation
+/compact - summarizes your entire conversation history while preserving the key information Claude has learned. 
+
+/clear - dump all memory

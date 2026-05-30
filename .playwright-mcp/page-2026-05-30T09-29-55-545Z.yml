@@ -1,0 +1,49 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e52]:
+            - generic [ref=e55]: Create a card component
+            - img [ref=e58]
+          - generic [ref=e61]:
+            - img [ref=e64]
+            - generic [ref=e69]:
+              - generic [ref=e72]: str_replace_editor
+              - separator [ref=e73]
+              - paragraph [ref=e75]: "Now creating the Card component:"
+              - generic [ref=e78]: str_replace_editor
+              - separator [ref=e79]
+              - paragraph [ref=e81]: Done! Created a reusable Card component with image, title, and description. It includes hover effects and responsive styling with Tailwind CSS.
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [selected] [ref=e35]
+          - tab "Code" [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - iframe [ref=e82]:
+        - generic [ref=f2e4]:
+          - generic [ref=f2e5]:
+            - img "Card Title" [ref=f2e6]
+            - generic [ref=f2e7]:
+              - heading "Card Title" [level=3] [ref=f2e8]
+              - paragraph [ref=f2e9]: This is a sample card component with a title and description.
+          - generic [ref=f2e10]:
+            - img "Another Card" [ref=f2e11]
+            - generic [ref=f2e12]:
+              - heading "Another Card" [level=3] [ref=f2e13]
+              - paragraph [ref=f2e14]: Cards are great for organizing content in a grid layout.
+          - generic [ref=f2e15]:
+            - img "Third Card" [ref=f2e16]
+            - generic [ref=f2e17]:
+              - heading "Third Card" [level=3] [ref=f2e18]
+              - paragraph [ref=f2e19]: You can customize the content and styling as needed.
+  - alert [ref=e51]
